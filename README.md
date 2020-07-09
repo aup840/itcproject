@@ -1,0 +1,1 @@
+Este proyecto tiene como objetivo cargar los archivos APK e instaladores de las herramientas de aprendizaje qque se han desarrollado en el Doctorado en ciencias de la ingenieria yen la maestria en ciencias de la computacion del Tecnologico Nacional de Mexico campus Culiacan
